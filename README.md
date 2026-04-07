@@ -11,7 +11,7 @@ It combines text preprocessing, feature engineering using **TF-IDF**, and a **ma
 
 ## 🎥 Demo
 
-https://github.com/salmael6/Emotion_detection/demo_detection_emotion.mp4
+https://github.com/salmael6/Emotion_detection/blob/main/demo_detection_emotion.mp4
 
 ---
 
